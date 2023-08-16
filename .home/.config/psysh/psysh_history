@@ -1,0 +1,8 @@
+_HiStOrY_V2_
+Chirp::all();
+app\134models\134chirp::all();
+app\134models\134Chirp::all();
+$chirp=\040new\040app\134models\134chirp;
+app\134Models\134Chirp::all();
+Chirp
+Chirp::all();
